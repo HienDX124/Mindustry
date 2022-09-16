@@ -1,0 +1,9 @@
+[I] [GL] Version: OpenGL 4.6.0 / NVIDIA Corporation / NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2
+[I] [GL] Max texture size: 32768
+[I] [GL] Using OpenGL 2 context.
+[I] [JAVA] Version: 16.0.1
+[I] [RAM] Available: 3.9 GB
+[I] [Mindustry] Version: 136.1
+[I] Total time to load: 1962ms
+[I] Fetching community servers at https://raw.githubusercontent.com/Anuken/Mindustry/master/servers_v7.json
+[I] Fetched 30 community servers.
